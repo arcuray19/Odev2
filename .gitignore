@@ -12,7 +12,6 @@
 *.vsix
 
 # img
-*.jpg
 *.png
 *.img
 
